@@ -1,2 +1,2 @@
 # ytw-syy
-Like CV,AI,machine-learning very much.
+Like CV,AI and machine-learning
